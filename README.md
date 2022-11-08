@@ -19,6 +19,15 @@ chung-nam.. serbot study
 * 가상 환경 비활성화 -> deactivate
 * jupyter notebook --ip --port 로 실행. 	
 * 원격 접속 10.10.13.143:8080
+* wifi 가 너무 느려서 upteciptime02-5G 로 접속함.
+* LiDAR 스캐닝. 
+	* connect()
+	* startMotor()
+	* stopMotor()
+	* ex)
+		from pop import LiDAR
+		lidar = LiDAR.Rplidar()
+		
 
 
 
